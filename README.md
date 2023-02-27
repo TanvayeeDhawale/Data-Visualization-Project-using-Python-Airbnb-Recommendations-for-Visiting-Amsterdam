@@ -10,5 +10,8 @@ My goals for the course were:
 ## The Data
 For this project, I've used the data from (http://insideairbnb.com/amsterdam/) Airbnb Listings in Amsterdam. This project aims to show the best Airbnb listings that one might need based on the places he's planning on visiting in Amsterdam. Data Visualisation for the output has been done using Streamlit.
 
+## My learnings:
+
+
 ## Completion certificate
 ![](https://github.com/TanvayeeDhawale/Python-For-Data-Science-with-Corise-Projects/blob/main/images/Corise_PYDS_certificate-1.png)
