@@ -1,4 +1,5 @@
-# Python-For-Data-Science-with-Corise-Projects
+# Airbnb Recommendations for Visiting Amsterdam(A Data Visualization Project using NumPy, Pandas and Stream-lit)
+
 
 Python for Data Science is a two week course I took on the platform- Corise. 
 Over the course of 2 weeks, I learnt and implemented the two fundamental packages in Python - NumPy and Pandas.
